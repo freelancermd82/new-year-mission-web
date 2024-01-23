@@ -1,0 +1,106 @@
+
+.header-section{
+    background-repeat: no-repeat;
+    background-color: #75d682;
+    height: auto;
+    
+
+
+}
+.header-container{
+    text-align: right;
+    color: #FFFFFF;
+    margin-left: 300px;
+    padding: 30px 10px;
+    
+
+
+    
+}
+.header-title{
+    font-size: 30px;
+}
+.btn-primary{
+    padding: 15px 20px;
+    border: none;
+    background: #f5c151;
+    font-size: 20px;
+    border-radius: 5px;
+}
+/* failure section */
+.fail-container{
+    display: flex;
+    gap: 50px;
+    background: #eef1ed;
+    text-align: left;
+
+
+}
+.fail-container .fail-img{
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+.fail-item{
+    text-align: center;
+    padding-left: 50px;
+}
+/* My Plans section */
+.plans{
+    text-align: center;
+
+}
+.plans-title{
+    padding-top: 50px;
+    font-size: 40px;
+}
+.plans-container{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.plans-container img{
+    height: 40px;
+    margin-top: 40px;
+}
+.plans-container p{
+   margin-top: -10px;
+}
+/* Always keep positive */
+.Always{
+    text-align:left;
+    background-image: linear-gradient(to right, red , yellow);
+}
+.Always-container{
+padding: 30px 40px;
+}
+/* footer styles */
+footer{
+    text-align: center;
+    background: #1b1b1b;
+    color: #FFFFFF;
+}
+.footer-container{
+    display: flex;
+    gap: 30px;
+    margin: 40px 50px;
+    padding: 20px 30px;
+    text-align: left;
+
+}
+.icon-container img{
+    height: 30px;
+    margin-left: 15px;
+}
+.subscribe h3{
+    font-size: 30px;
+}
+.subscribe input[type=email] {
+    height: 30px ;
+    width: 100%;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
